@@ -1,4 +1,4 @@
-//It used to deeply understand the binary search tree
+//It used to deeply understand the binary search tree by hand
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>
